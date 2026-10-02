@@ -1,4 +1,4 @@
-# purchases-ios
+# payblast-purchases-ios
 
 Payblast iOS SDK (StoreKit 2)
 
